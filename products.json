@@ -1,0 +1,43 @@
+[
+    {
+      "productName": "Big bike",
+      "productPrice": "2000 NOK",
+      "productShortDescription": "Lorem ipsum",
+      "productLongDescription": "Lorem ipsum dolor sit amet",
+      "productIsFor": "male",
+      "productType": "bike"
+    },
+    {
+        "productName": "Red bike",
+        "productPrice": "2000 NOK",
+        "productShortDescription": "Lorem ipsum",
+        "productLongDescription": "Lorem ipsum dolor sit amet",
+        "productIsFor": "female",
+        "productType": "bike"
+      },
+      {
+        "productName": "Blue bike",
+        "productPrice": "2000 NOK",
+        "productShortDescription": "Lorem ipsum",
+        "productLongDescription": "Lorem ipsum dolor sit amet",
+        "productIsFor": "male",
+        "productType": "bike"
+      },
+      {
+        "productName": "Green bike",
+        "productPrice": "2000 NOK",
+        "productShortDescription": "Lorem ipsum",
+        "productLongDescription": "Lorem ipsum dolor sit amet",
+        "productIsFor": "female",
+        "productType": "bike"
+      },
+      {
+        "productName": "Small bike",
+        "productPrice": "2000 NOK",
+        "productShortDescription": "Lorem ipsum",
+        "productLongDescription": "Lorem ipsum dolor sit amet",
+        "productIsFor": "kid",
+        "productType": "bike"
+      }
+]
+
